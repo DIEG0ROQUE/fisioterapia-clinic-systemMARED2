@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/fisioterapia-clinic-systemMARED',
+  basePath: '/fisioterapia-clinic-systemMARED2',
   typescript: {
     ignoreBuildErrors: true,
   },
